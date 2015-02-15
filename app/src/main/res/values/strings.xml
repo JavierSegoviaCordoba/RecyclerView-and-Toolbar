@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">RecyclerView and Toolbar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="array_titles_recyclerview">
+        <item>@string/title_1</item>
+        <item>@string/title_2</item>
+        <item>@string/title_3</item>
+        <item>@string/title_4</item>
+        <item>@string/title_5</item>
+        <item>@string/title_7</item>
+        <item>@string/title_8</item>
+        <item>@string/title_9</item>
+        <item>@string/title_10</item>
+        <item>@string/title_11</item>
+        <item>@string/title_12</item>
+    </string-array>
+    <string name="title_1">Title 1</string>
+    <string name="title_2">Title 2</string>
+    <string name="title_3">Title 3</string>
+    <string name="title_4">Title 4</string>
+    <string name="title_5">Title 5</string>
+    <string name="title_6">Title 6</string>
+    <string name="title_7">Title 7</string>
+    <string name="title_8">Title 8</string>
+    <string name="title_9">Title 9</string>
+    <string name="title_10">Title 10</string>
+    <string name="title_11">Title 11</string>
+    <string name="title_12">Title 12</string>
+
+    <string-array name="array_content_recyclerview">
+        <item>@string/content_1</item>
+        <item>@string/content_2</item>
+        <item>@string/content_3</item>
+        <item>@string/content_4</item>
+        <item>@string/content_5</item>
+        <item>@string/content_6</item>
+        <item>@string/content_7</item>
+        <item>@string/content_8</item>
+        <item>@string/content_9</item>
+        <item>@string/content_10</item>
+        <item>@string/content_11</item>
+        <item>@string/content_12</item>
+    </string-array>
+
+    <string name="content_1">Content 1</string>
+    <string name="content_2">Content 2</string>
+    <string name="content_3">Content 3</string>
+    <string name="content_4">Content 4</string>
+    <string name="content_5">Content 5</string>
+    <string name="content_6">Content 6</string>
+    <string name="content_7">Content 7</string>
+    <string name="content_8">Content 8</string>
+    <string name="content_9">Content 9</string>
+    <string name="content_10">Content 10</string>
+    <string name="content_11">Content 11</string>
+    <string name="content_12">Content 12</string>
+</resources>
